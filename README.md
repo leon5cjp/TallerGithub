@@ -8,7 +8,7 @@ Enseñar a usar **github**.
 - Lista 3
 
 ```javascript
-     fuction hold()
+     fuction hola()
      {
-         console.log('hola muno);
+         console.log('hola mundo');
      } 
